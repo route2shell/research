@@ -1,14 +1,8 @@
 # Research
 
-This repository is the public home for my CVE research, technical write-ups, and coordinated disclosure work.
+This repository contains my CVE research, technical write-ups, and coordinated disclosure work.
 
-## What this repository will contain
-
-- Individual CVE project folders with full technical reports
-- Supporting evidence, references, and proof-of-concept material when appropriate
-- A growing index of published research
-
-## Scope
+---
 
 This repository is intended to highlight work across the full lifecycle of a vulnerability:
 
@@ -19,3 +13,13 @@ This repository is intended to highlight work across the full lifecycle of a vul
 - Public disclosure
 
 As additional cases are published, this repository will become the central index for that work.
+
+---
+
+Disclaimer
+
+Any proof-of-concept (PoC) scripts and information provided in this repository are intended for educational and authorized security testing purposes only.
+
+⚠️ Do not use against systems you do not own or have explicit permission to test. ⚠️
+
+The author is not responsible for any misuse or damage caused by this material. Always follow responsible disclosure practices and applicable laws.
