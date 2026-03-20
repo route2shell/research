@@ -1,25 +1,23 @@
-# Research
+# Vulnerability Research
 
-This repository contains my CVE research, technical write-ups, and coordinated disclosure work.
+This repository collects my vulnerability research, CVE writeups, and coordinated disclosure work.
 
----
-
-This repository is intended to highlight work across the full lifecycle of a vulnerability:
+It is intended to document the full lifecycle of a security issue, including:
 
 - Discovery
 - Root cause analysis
-- Risk and impact assessment
+- Impact assessment
 - Vendor coordination
 - Public disclosure
 
-As additional cases are published, this repository will become the central index for that work.
+Over time, this repository will serve as a central index for published research and technical case studies.
 
 ---
 
-Disclaimer
+## Disclaimer
 
-Any proof-of-concept (PoC) scripts and information provided in this repository are intended for educational and authorized security testing purposes only.
+Any proof-of-concept (PoC) material in this repository is provided for educational purposes and authorized security testing only.
 
-⚠️ Do not use against systems you do not own or have explicit permission to test. ⚠️
+Do not use this material against systems you do not own or do not have explicit permission to assess.
 
-The author is not responsible for any misuse or damage caused by this material. Always follow responsible disclosure practices and applicable laws.
+The author is not responsible for misuse, damage, or unlawful application of the information provided here. Always follow responsible disclosure practices and applicable laws.
