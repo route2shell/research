@@ -14,6 +14,15 @@ Over time, this repository will serve as a central index for published research 
 
 ---
 
+## Reports
+
+| CVE | Title |
+|---|---|
+| [CVE-2026-27696](CVE-2026-27696/CVE-2026-27696.md) | Server-Side Request Forgery (SSRF) via Watch URLs |
+| [CVE-2026-44849](CVE-2026-44849/CVE-2026-44849.md) | Bind Mount Restriction Bypass via Volume Driver Options in Swarm Service Creation |
+
+---
+
 ## Disclaimer
 
 Any proof-of-concept (PoC) material in this repository is provided for educational purposes and authorized security testing only.
